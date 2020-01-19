@@ -8,7 +8,7 @@
     "start": "nodemon src/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pedro Henrico",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.1",
