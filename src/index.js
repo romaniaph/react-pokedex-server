@@ -8,7 +8,7 @@ const App = express();
 App.use(cors());
 App.use(bodyparser.json());
 App.use(bodyparser.urlencoded({ extended: false }));
-App.listen('3000');
+App.listen(process.env.PORT || 3000);
 
 //rotas da api
-App.use('/pokedex-api', routes);
+App.use(routes);
