@@ -1,6 +1,6 @@
 # React Pokedex
 
-- This repo is only a back-end.
+- This repo is only the back-end.
 - [Front-End](https://github.com/romaniaph/react-pokedex)
 
 ## What is React Pokedex?
