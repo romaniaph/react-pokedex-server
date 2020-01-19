@@ -4,7 +4,10 @@ const P = new Pokedex();
 module.exports = {
     async getPokemons(req, res) {
         try {
-            const { offset } = req.params;
+            let { offset } = req.params;
+
+            if (!offset)
+                offset = 0;
 
             //variável onde vão ficar armazenado os pokémons
             let pokemons = []
