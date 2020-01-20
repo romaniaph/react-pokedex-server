@@ -9,7 +9,7 @@
  ## How works?
  - The main page contains a lsit of pokémons and a search bar. 
  - You can navigate to pokemon detail clicking on it or searching by name/id.
- - See the project working [here](https://romaniaph.github.io/react-pokedex-client/)
+ - See the project working [here](https://pedro-pokedex.netlify.com)
  
  ## Features: 
  - JavaScript — a programming language.
