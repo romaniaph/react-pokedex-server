@@ -7,7 +7,7 @@
  - React Pokedex is a simple Pokedex Web Interface using ReactJS and NodeJS.
  
  ## How works?
- - The main page contains a lsit of pokémons and a search bar. 
+ - The main page contains a list of pokémons and a search bar. 
  - You can navigate to pokemon detail clicking on it or searching by name/id.
  - See the project working [here](https://pedro-pokedex.netlify.com)
  
