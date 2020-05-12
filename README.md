@@ -26,7 +26,7 @@ With npm or yarn installed in your machine.
   ```
  or 
  ```sh
-  yarn add
+  yarn install
   ```
   
 ## Usage:
